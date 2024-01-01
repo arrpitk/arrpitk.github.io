@@ -1,12 +1,10 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - arrpitk
+  - its-arpit
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - arrpitk/SImple-QA-Langchain-POC
+  - arrpitk/LangChain-MasterClass---Build-15-OpenAI-and-LLAMA-2-LLM-Apps-using-Python
+  - its-arpit/fuel_price_api_india
+  - its-arpit/TIE-backend
+
