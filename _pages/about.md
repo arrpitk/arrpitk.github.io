@@ -22,7 +22,7 @@ social: true  # includes social icons at the bottom of the page
 
 Hello! I'm Arpit, a fervent advocate for integrating data science across diverse industries. My passion lies in crafting projects that demystify complex technologies and showcase their real-world applications.
 
-`Current Endeavors | <a href='#'>LinkedIn</a>`
+`Current Endeavors |` <a href='https://www.linkedin.com/in/aarpitk'>LinkedIn</a>
 
 As a seasoned Data Scientist, I specialize in `AI, GenAI, & Azure`, currently making strides in Natural Language Processing and innovative model deployment. I take pride in my role, where I'm not just solving problems but also shaping the future of how we interact with data. I'm currently engaged in groundbreaking work at <a href='#'>Coforge</a>. My forte includes crafting robust models for real-world applications.
 
@@ -30,7 +30,7 @@ As a seasoned Data Scientist, I specialize in `AI, GenAI, & Azure`, currently ma
 
 Beyond my professional sphere, I engage in strategic consulting, offering my expertise to drive growth and innovation in various sectors. My collaborative projects range from enhancing nonprofit strategies to spearheading advancements in <a href='#'>Artificial Inteligence</a>.
 
-`Insights & Engagements | <a href='#'>YouTube</a> & <a href='#'>Medium</a>`
+`Insights & Engagements |`<a href='#'>YouTube</a> & <a href='https://lnkd.in/dr5Nv6E5'>Medium</a>
 
 Perhaps you've stumbled upon my portfolio through my online content. If not, I invite you to explore my videos and writings, where I delve into everything from Specific Topics to the theoretical underpinnings of technology.
 
