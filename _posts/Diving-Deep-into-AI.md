@@ -4,7 +4,7 @@ title:  🚀 Diving Deep into AI Conversations! 🤖💬
 date: 2024-1-1 00:25:00
 description: Ever wondered how to strike the perfect conversation with an AI? It's all in the prompt! My latest article "Mastering the Art of Conversation with AI Real-World Examples of Prompt Engineering" is now live....
 tags: formatting diagrams
-categories: AI
+categories: 
 tikzjax: true
 ---
 Ever wondered how to strike the perfect conversation with an AI? It's all in the prompt! My latest article "Mastering the Art of Conversation with AI Real-World Examples of Prompt Engineering" is now live....
