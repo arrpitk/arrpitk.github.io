@@ -7,7 +7,7 @@ subtitle: <a href='#'>I</a>nspire. <a href='#'>I</a>nnovate. <a href='#'>I</a>mp
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: 
     <p>Located in </p>
     <p>Kanpur, India</p>
@@ -26,7 +26,7 @@ Hello! I'm Arpit, a fervent advocate for integrating data science across diverse
 
 `Current Endeavors |` <a href='https://www.linkedin.com/in/aarpitk'>LinkedIn</a>
 
-As a seasoned Data Scientist, I specialize in `AI, GenAI, & Azure`, currently making strides in Natural Language Processing and innovative model deployment. I take pride in my role, where I'm not just solving problems but also shaping the future of how we interact with data. I'm currently engaged in groundbreaking work at <a href='#'>Coforge</a>. My forte includes crafting robust models for real-world applications.
+As a seasoned Data Scientist, I specialize in <b>AI, GenAI, & Azure </b>, currently making strides in Natural Language Processing and innovative model deployment. I take pride in my role, where I'm not just solving problems but also shaping the future of how we interact with data. I'm currently engaged in groundbreaking work at <a href='#'>Coforge</a>. My forte includes crafting robust models for real-world applications.
 
 `Community Contributions & Collaborations`
 
@@ -47,4 +47,4 @@ Perhaps you've stumbled upon my portfolio through my online content. If not, I i
 
 Are you passionate about data science, technology, or have an innovative project in mind? I'm always on the lookout for like-minded individuals eager to explore and create. Reach out to me at <a href="mailto:business.inquiry.arpitk@gmail.com">business.inquiry.arpitk@gmail.com</a> and let's see how we can collaborate!
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="aarpitk" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/aarpitk?trk=profile-badge">Arpit Kashyap</a></div>
+
