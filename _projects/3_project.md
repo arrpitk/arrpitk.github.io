@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: Langchain LLM LAB
+description: A lab that can test llm model and its process
+img: assets/img/Langchain.png
+redirect: https://arpitk-llms-test-lab.hf.space
 importance: 3
 category: work
 ---

@@ -33,13 +33,13 @@
   contents:
     - title: Data Scientist 
       institution: Coforge Ltd., Gr. Noida, India
-      year: Oct 2021 - Current
+      year: Oct 2021 - Now
       description:
-        - Generative AI Implementation: Spearheaded the implementation of Generative AI for key information generation based on documents.
-        - Fasttext Model Application: Implemented Fasttext models for efficient email classification.
-        - QA Model Development: Developed a QA model dedicated to extracting key information.
-        - Object Identification using Yolo7: Trained Yolo7 models on custom objects for precise object identification.
-        - Custom NER Model Creation: Created and trained a SpaCy NER model to predict key values from a custom dataset.
+        - Generative AI Implementation, Spearheaded the implementation of Generative AI for key information generation based on documents.
+        - Fasttext Model Application, Implemented Fasttext models for efficient email classification.
+        - QA Model Development, Developed a QA model dedicated to extracting key information.
+        - Object Identification using Yolo7, Trained Yolo7 models on custom objects for precise object identification.
+        - Custom NER Model Creation:, Created and trained a SpaCy NER model to predict key values from a custom dataset.
 
     - title: AVP
       institution: QuickMetrix, Bengaluru, India
