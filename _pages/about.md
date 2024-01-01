@@ -11,7 +11,7 @@ profile:
   more_info: 
     <p>Located in </p>
     <p>Kanpur, India</p>
-    <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="aarpitk" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/aarpitk?trk=profile-badge">Arpit Kashyap</a></div>
+    
               
 
 news: true  # includes a list of news items
@@ -46,3 +46,5 @@ Perhaps you've stumbled upon my portfolio through my online content. If not, I i
 `Connect & Collaborate`
 
 Are you passionate about data science, technology, or have an innovative project in mind? I'm always on the lookout for like-minded individuals eager to explore and create. Reach out to me at <a href="mailto:business.inquiry.arpitk@gmail.com">business.inquiry.arpitk@gmail.com</a> and let's see how we can collaborate!
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="aarpitk" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/aarpitk?trk=profile-badge">Arpit Kashyap</a></div>
