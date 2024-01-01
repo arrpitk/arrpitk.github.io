@@ -18,8 +18,29 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+`Arpit: Data Scientist & Innovator`
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Hello! I'm Arpit, a fervent advocate for integrating data science across diverse industries. My passion lies in crafting projects that demystify complex technologies and showcase their real-world applications.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+`Current Endeavors | <a href='#'>LinkedIn</a>`
+
+As a seasoned Data Scientist, I specialize in `AI, GenAI, & Azure`, currently making strides in Natural Language Processing and innovative model deployment. I take pride in my role, where I'm not just solving problems but also shaping the future of how we interact with data. I'm currently engaged in groundbreaking work at <a href='#'>Coforge</a>. My forte includes crafting robust models for real-world applications.
+
+`Community Contributions & Collaborations`
+
+Beyond my professional sphere, I engage in strategic consulting, offering my expertise to drive growth and innovation in various sectors. My collaborative projects range from enhancing nonprofit strategies to spearheading advancements in <a href='#'>Artificial Inteligence</a>.
+
+`Insights & Engagements | <a href='#'>YouTube</a> & <a href='#'>Medium</a>`
+
+Perhaps you've stumbled upon my portfolio through my online content. If not, I invite you to explore my videos and writings, where I delve into everything from Specific Topics to the theoretical underpinnings of technology.
+
+`Ongoing Projects & Interests`
+
+- Architecting cost-effective, efficient code solutions
+- Exploring innovative applications in insurance and finace
+- Crafting and utilizing GANs for artistic expression
+- Automating and enhancing business and financial analysis
+
+`Connect & Collaborate`
+
+Are you passionate about data science, technology, or have an innovative project in mind? I'm always on the lookout for like-minded individuals eager to explore and create. Reach out to me at <a href="mailto:business.inquiry.arpitk@gmail.com">business.inquiry.arpitk@gmail.com</a> and let's see how we can collaborate!
