@@ -218,7 +218,6 @@ plugins:
   - jekyll-get-json
   - jekyll-imagemagick
   - jekyll-jupyter-notebook
-  - jekyll-bookworm
   - jekyll-link-attributes
   - jekyll-minifier
   - jekyll-paginate-v2
