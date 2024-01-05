@@ -46,7 +46,7 @@ rss_icon: false
 # -----------------------------------------------------------------------------
 
 navbar_fixed: true
-footer_fixed:  
+footer_fixed: true
 
 # Dimensions
 max_width: 800px
