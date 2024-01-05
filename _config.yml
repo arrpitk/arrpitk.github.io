@@ -10,7 +10,7 @@ email: arpit.kashyap@live.com.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Hello! I’m Arpit, a fervent advocate for integrating data science across diverse industries.
 footer_text: >
-  “It’s going to be interesting to see how society deals with artificial intelligence, but it will definitely be cool.” ~ Colin Angle | © Copyright 2023 Arpit R. Kashyap
+  “It’s going to be interesting to see how society deals with artificial intelligence, but it will definitely be cool. ~ Colin Angle"
 keywords: Data Scinetist Insurace Domain, AI Engineer, Generative AI Expert, Machine Learning Engineer  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
@@ -46,7 +46,7 @@ rss_icon: false
 # -----------------------------------------------------------------------------
 
 navbar_fixed: true
-footer_fixed: true
+footer_fixed:  
 
 # Dimensions
 max_width: 800px
