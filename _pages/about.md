@@ -29,9 +29,9 @@ As a seasoned Data Scientist, I specialize in <b>AI, GenAI, & Azure </b>, curren
 
 `Community Contributions & Collaborations`
 
-Beyond my professional sphere, I engage in strategic consulting, offering my expertise to drive growth and innovation in various sectors. My collaborative projects range from enhancing nonprofit strategies to spearheading advancements in `<a href='#'>`Artificial Inteligence`</a>`.
+Beyond my professional sphere, I engage in strategic consulting, offering my expertise to drive growth and innovation in various sectors. My collaborative projects range from enhancing nonprofit strategies to spearheading advancements in <a href='#'>Artificial Inteligence</a>.
 
-`Insights & Engagements |`<a href=#>YouTube</a> & <a href='https://lnkd.in/dr5Nv6E5'>Medium</a>
+`Insights & Engagements |` <a href='#'>YouTube</a> & <a href='https://lnkd.in/dr5Nv6E5'>Medium</a>
 
 Perhaps you've stumbled upon my portfolio through my online content. If not, I invite you to explore my videos and writings, where I delve into everything from Specific Topics to the theoretical underpinnings of technology.
 
